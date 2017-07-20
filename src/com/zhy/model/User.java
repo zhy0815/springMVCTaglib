@@ -1,7 +1,7 @@
 package com.zhy.model;
 
 import java.io.Serializable;
-
+//用户类
 public class User implements Serializable {
 	private String username;
 	private String sex;
